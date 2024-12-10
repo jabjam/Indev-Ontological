@@ -1,5 +1,5 @@
 theory Anderson_CML_2nd
-imports Main "../CFML_Lewis_var"
+imports Main "../CFML_Lewis_var2"
 
 begin
 
